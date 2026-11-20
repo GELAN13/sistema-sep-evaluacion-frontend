@@ -4,14 +4,14 @@ Aplicación web React + Vite desarrollada para la **Secretaría de Educación de
 
 ---
 
-## 📋 Requisitos
+## Requisitos
 
 - **Node.js** v18+
 - Servidor backend corriendo (puerto 4000 por defecto)
 
 ---
 
-## 🚀 Puesta en marcha rápida
+## Puesta en marcha rápida
 
 ### 1. Clonar el repositorio
 ```bash
@@ -44,7 +44,7 @@ Genera la carpeta optimizada `dist/`.
 
 ---
 
-## ✨ Características Principales
+## Características Principales
 
 - **Identidad oficial SEV Veracruz**:
   - Logotipo oficial de la Secretaría de Educación de Veracruz.
